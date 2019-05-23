@@ -16,7 +16,15 @@ function myFunction() {
   var x = Math.floor((Math.random() * 10) + 1);
   document.getElementById("demo").innerHTML = x;
 }
-</script>
+
+  
+ window.onload = function() {
+   var getInput = prompt("Hey type something here: ");
+   localStorage.setItem("storageName",getInput);
+} 
+  
+  
+  </script>
 <a href="link.html" title="GO TO PAGE 1">GO to PAGE 1 </a>
 
   </body>
