@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+    
+<body><h1 style="border:2px solid Tomato;">
+
+<p></p>
+
+    <center>
+    <p style="color:yellow;font-size:50px;">You're inside of the living room. There's a large opening in the North entering the kitchen, a small door to the West leading to your bedroom, and a door heading outside to your yard.</p>
+<center>
+    
+   <style>
+a:hover {
+  background-color: yellow;
+}
+</style>  
+    
+    
+    <p style="color:blue;"></p>
+<p style="font-size:50px;"></p>
+
+</body>
+</html>
+
+<body style="background-color:black;">
+    
+    
+    
+     <font size="100px"><p><a href="file:///home/chronos/u-9df51871d114a63822b91b1f51a065be709602a5/MyFiles/Downloads/Bedroom.html"> West</a> </p>
+    
+    <font size="100px"><p><a href="file:///home/chronos/u-9df51871d114a63822b91b1f51a065be709602a5/MyFiles/Downloads/outside.html"> Outside</a> </p>
