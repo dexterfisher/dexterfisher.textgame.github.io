@@ -1,0 +1,177 @@
+ <audio id="myAudio">
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="playfirstpage.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<p>Click the buttons to play or pause the audio.</p>
+
+<button onclick="playAudio()" type="button">Play Audio</button>
+<button onclick="pauseAudio()" type="button">Pause Audio</button> 
+
+<script>
+
+
+
+
+
+
+
+ <audio id="myAudio">
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="livingroomrecording.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<p>Click the buttons to play or pause the audio.</p>
+
+<button onclick="playAudio()" type="button">Play Audio</button>
+<button onclick="pauseAudio()" type="button">Pause Audio</button> 
+
+<script>
+
+
+
+
+
+
+
+ <audio id="myAudio">
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="bedroommrecording.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<p>Click the buttons to play or pause the audio.</p>
+
+<button onclick="playAudio()" type="button">Play Audio</button>
+<button onclick="pauseAudio()" type="button">Pause Audio</button> 
+
+<script>
+
+
+
+
+
+
+
+
+ <audio id="myAudio">
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="jewlery.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<p>Click the buttons to play or pause the audio.</p>
+
+<button onclick="playAudio()" type="button">Play Audio</button>
+<button onclick="pauseAudio()" type="button">Pause Audio</button> 
+
+<script>
+
+
+
+
+
+
+
+ <audio id="myAudio">
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="yard.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<p>Click the buttons to play or pause the audio.</p>
+
+<button onclick="playAudio()" type="button">Play Audio</button>
+<button onclick="pauseAudio()" type="button">Pause Audio</button> 
+
+<script>
+
+
+
+
+
+
+
+
+
+
+
+
+ <audio id="myAudio">
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="braceletno.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<p>Click the buttons to play or pause the audio.</p>
+
+<button onclick="playAudio()" type="button">Play Audio</button>
+<button onclick="pauseAudio()" type="button">Pause Audio</button> 
+
+<script>
+
+
+
+
+
+
+
+
+
+
+ <audio id="myAudio">
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="shed1.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<p>Click the buttons to play or pause the audio.</p>
+
+<button onclick="playAudio()" type="button">Play Audio</button>
+<button onclick="pauseAudio()" type="button">Pause Audio</button> 
+
+<script>
+
+
+
+
+
+
+
+
+
+
+ <audio id="myAudio">
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="shed2.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<p>Click the buttons to play or pause the audio.</p>
+
+<button onclick="playAudio()" type="button">Play Audio</button>
+<button onclick="pauseAudio()" type="button">Pause Audio</button> 
+
+<script>
+
+
+
+
+
+
+
+
+ <audio id="myAudio">
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="leaves.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<p>Click the buttons to play or pause the audio.</p>
+
+<button onclick="playAudio()" type="button">Play Audio</button>
+<button onclick="pauseAudio()" type="button">Pause Audio</button> 
+
+<script>
